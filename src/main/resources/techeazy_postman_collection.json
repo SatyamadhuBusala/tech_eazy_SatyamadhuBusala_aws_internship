@@ -1,0 +1,21 @@
+{
+  "info": {
+    "name": "Techeazy API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get Custom Message",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://3.95.37.27/custom",
+          "protocol": "http",
+          "host": ["3.95.37.27"],
+          "path": ["custom"]
+        }
+      }
+    }
+  ]
+}
