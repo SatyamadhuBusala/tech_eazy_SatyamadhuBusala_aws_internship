@@ -27,5 +27,7 @@ Web page displayed "Successfully Deployed"
 
 ### 5 Ran the App using Environment Variable
 java -Dcustom.message="Hello from Env" -jar target/techeazy-devops-0.0.1-SNAPSHOT.jar
-### 6 Instance Shutdown (For Cost Saving)
-sudo shutdown now
+
+### 6 Instance Stoping (For Cost Saving)
+I just stop the instance, when I want it again quickly start
+![5](https://github.com/SatyamadhuBusala/tech_eazy_SatyamadhuBusala_aws_internship/blob/main/project%20img/Screenshot%202025-06-08%20132245.png)
