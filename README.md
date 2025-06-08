@@ -11,6 +11,7 @@ java -version
 ### 3 Cloned GitHub Repository
 git clone https://github.com/techeazy-consulting/techeazy-devops.git
 cd techeazy-devops
+![img3](https://github.com/SatyamadhuBusala/tech_eazy_SatyamadhuBusala_aws_internship/blob/main/project%20img/Screenshot%202025-06-08%20130628.png)
 ### 4 Accessed App on Port 80 (HTTP)
 Opened http://3.95.37.27 in the browser
 ![img2](https://github.com/SatyamadhuBusala/tech_eazy_SatyamadhuBusala_aws_internship/blob/main/project%20img/Screenshot%202025-06-08%20094452.png)
