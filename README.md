@@ -12,6 +12,7 @@ git clone https://github.com/techeazy-consulting/techeazy-devops.git
 cd techeazy-devops
 ### 4 Accessed App on Port 80 (HTTP)
 Opened http://3.95.37.27 in the browser
+![img2](https://github.com/SatyamadhuBusala/tech_eazy_SatyamadhuBusala_aws_internship/blob/main/project%20img/Screenshot%202025-06-08%20094452.png)
 Web page displayed "Successfully Deployed"
 ### 5 Ran the App using Environment Variable
 java -Dcustom.message="Hello from Env" -jar target/techeazy-devops-0.0.1-SNAPSHOT.jar
